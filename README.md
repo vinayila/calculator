@@ -13,4 +13,5 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
+3. [![Build Status](https://dev.azure.com/vinaypipeline/DEVOPS-Practice-scrum/_apis/build/status/vinayila.calculator?branchName=master)](https://dev.azure.com/vinaypipeline/DEVOPS-Practice-scrum/_build/latest?definitionId=16&branchName=master)
 
